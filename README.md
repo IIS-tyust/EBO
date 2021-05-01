@@ -1,2 +1,2 @@
 # EBO
-Evolutionary Bayesian Optimization
+Evolutionary Bayesian Optimization on Many-objective Problems
