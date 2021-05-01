@@ -1,1 +1,2 @@
 # EBO
+Evolutionary Bayesian Optimization
